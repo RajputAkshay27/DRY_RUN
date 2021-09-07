@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DRY_RUN</string>
+    <string name="ButtonName">CAll API</string>
+</resources>
